@@ -1,7 +1,5 @@
-# 5kruz
-#### aka - fairweatherh8r, dontrend, skrews
-
-**5kruz/5kruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 5kruz
+#### _aka - fairweatherh8r, dontrend, skrews_
 
 Here are some ideas to get you started:
 
